@@ -13,7 +13,3 @@ This upcoming year I will be organizing an AMS Special Session on Derived Catego
 "Strong generation and (co)ghost index in module categories" joint with [Souvik Dey](https://sites.google.com/view/souvikdey/research) and [Ryo Takahashi](https://www.math.nagoya-u.ac.jp/~takahashi/)- [arxiv version](https://arxiv.org/abs/2307.13675), submitted
 
 "High Frobenius Pushforwards generate the bounded derived category" joint work w/ [Matthew Ballard](https://www.matthewrobertballard.com/), [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/), [Alapan Mukhopadhyay](http://www-personal.umich.edu/~alapanm/), and [Josh Pollitz](https://www.joshpollitz.com/) - [arxiv version](https://arxiv.org/abs/2303.18085), submitted
-
-# Misc.
-
-"Intrinsic Curvature For Schemes." [M.Sc. thesis](https://digitalrepository.unm.edu/math_etds/176) (2020).
