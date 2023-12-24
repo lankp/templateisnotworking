@@ -17,28 +17,3 @@ This upcoming year I will be organizing an AMS Special Session on Derived Catego
 # Misc.
 
 "Intrinsic Curvature For Schemes." [M.Sc. thesis](https://digitalrepository.unm.edu/math_etds/176) (2020).
-
-# Talks (last two years)
-
-AMS Special Session on Commutative Algebra and its Applications, Howard University, Washington, DC, April 2024
-
-AMS Contributed Paper Session on Commutative Algebra and Related Topics at the 2024 Joint Mathematics Meetings, January 2024
-
-Algebraic Geometry seminar, University of Georgia, October 2023
-
-Syzygies and mirror symmetry worskhop, American Institute of Mathematics, September 2023
-
-New Directions in Group Theory and Triangulated Categories, May 2023
-
-Georgia Algebraic Geometry Symposium, University of Georgia, May 2023
-
-Categorical methods in moduli theory, University of Pennsylvania, April 2023
-
-AMS Special Session on Interactions between Noncommutative Ring Theory and Algebraic Geometry, Spring Central Sectional, April 2023
-
-AMS Special Session on Recent Developments in Commutative Algebra, Southeast Sectional, March 2023 
-
-Algebraic Geometry seminar, University of Utah, September 2022
-
-Algebraic Geometry & Singularity theory workshop, University of Washington, June 2022 
-
