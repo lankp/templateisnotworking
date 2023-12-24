@@ -18,16 +18,16 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 #header_pages:
-  - about.md
+#  - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
@@ -50,10 +50,10 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
-  #social_links:
-  #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
-  #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+  social_links:
+    - { platform: arXiv,          user_url: "https://arxiv.org/a/0000-0003-1593-2823.html" }
+    - { platform: ORCiD,       user_url: "https://orcid.org/0000-0002-2367-2892" }
+    - { platform: Google Scholar,       user_url: "https://scholar.google.com/citations?user=JDLS-0oAAAAJ&hl=en&oi=ao" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
