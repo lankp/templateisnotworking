@@ -1,12 +1,14 @@
-title: Pat Lank
+title: Your awesome title
 author:
-  name: Pat Lank
-  email: plankmathematics@ gmail.com
-logo: /assets/prof_pic.jpg
+  name: GitHub User
+  email: your-email@domain.com
+
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-#description: >
-#  Descrip
+description: >
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
 
 # Build settings
 
@@ -18,22 +20,22 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-#plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
-#header_pages:
-#  - about.md
+header_pages:
+  - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
-#minima:
+minima:
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
@@ -42,7 +44,7 @@ theme: minima
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  # skin: solarizd-dark
+  skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -50,11 +52,11 @@ theme: minima
   #date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
-  social_links:
-    - { platform: arXiv,          user_url: "" }
-    - { platform: Orchid,       user_url: "" }
-    - { platform: Google Scholar,       user_url: "" }
-    - { platform: github,         user_url: "" }
+  #social_links:
+  #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
+  #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
+  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+  #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
