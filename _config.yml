@@ -2,7 +2,7 @@ title: Pat Lank
 author:
   name: Pat Lank
   email: plankmathematics@ gmail.com
-
+logo: /assets/prof_pic.jpeg
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 #description: >
