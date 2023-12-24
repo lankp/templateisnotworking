@@ -1,8 +1,8 @@
-My work falls into both landscapes of algebraic geometry and commutative algebra where I utilize the machinery
-of derived categories to understand problems lying within these two subject matters. This direction
-of research has interactions with singularity theory, and in essence the objective is to understand the behavior
-through homological methods coming from derived categories. Broadly speaking, I am interested in
-problems regarding the applications of derived categories in algebraic geometry and commutative algebra.
+I am a PhD candidate in pure mathematics at the University of South Carolina under the supervision of <a href="https://www.matthewrobertballard.com">Dr. Matthew Ballard</a>, and a member of the <a href="https://www.scagnt.org/seminar/">SCAGNT research group</a>. Previously, I was a M.Sc. student at the University of New Mexico and was advised by <a href="http://www.math.unm.edu/~buium">Dr. Alexandru Buium</a>.
+
+My work falls into both landscapes of algebraic geometry and commutative algebra where I utilize the machinery of derived categories to understand problems lying within these two subjects.
+
+This upcoming year I will be organizing an AMS Special Session on Derived Categories, Arithmetic, and Geometry at the JMM in 2024, see <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title">here</a>.
 
 # Papers
 
