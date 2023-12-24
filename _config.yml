@@ -18,9 +18,9 @@ theme: jekyll-theme-minimal
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 # Theme-specific settings
 
@@ -33,7 +33,7 @@ plugins:
 #show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
-minima:
+#minima:
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
@@ -42,7 +42,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: solarizd-dark
+  # skin: solarizd-dark
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
